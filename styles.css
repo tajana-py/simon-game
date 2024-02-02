@@ -1,0 +1,68 @@
+body {
+  text-align: center;
+  background-image: url("./images/background-img-blur-dark.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #7c6981;
+}
+
+#level-title {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  margin:  5% auto 3%;
+  color: #FEF2BF;
+  text-shadow: 2px 0 #232931;
+}
+
+h2 {
+  color: #F1ECC9;
+  font-family: sans-serif;
+}
+
+.container {
+  display: block;
+  width: 50%;
+  margin: auto;
+
+}
+
+.btn {
+  margin: 25px;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  border: 10px solid #232931;
+  border-radius: 20%;
+}
+
+.game-over {
+  background-color: rgb(255, 0, 89);
+  opacity: 0.8;
+}
+
+.rose {
+  background-color: #fea5b1;
+}
+
+.beige {
+  background-color: #ffefb6;
+}
+
+.blue {
+  background-color: #8acdd7;
+}
+
+.lilac {
+  background-color: #bb9cc0;
+}
+
+.pressed {
+  box-shadow: 0 0 20px ;
+  background-color: grey;
+}
+
+footer {
+  color: #F1ECC9;
+  font-family: sans-serif;
+  padding: 3% 0;
+}
