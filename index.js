@@ -13,7 +13,7 @@ $(document).on("keypress", function() {
 }
 });
 
-$(h2).on("click", function() {
+$("h2").on("click", function() {
     if (!gameHasStarted) {
         nextSequence();
         gameHasStarted = true;
