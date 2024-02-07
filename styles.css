@@ -1,3 +1,8 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
 body {
   text-align: center;
   background-image: url("./images/background-img-blur-dark.png");
@@ -6,13 +11,14 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-color: #7c6981;
-  height: 100vh;
 }
 
 .container-body {
-  justify-content: center;
   align-items: center;
   display: flex;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
 }
 
 #level-title {
