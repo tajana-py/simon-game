@@ -9,16 +9,6 @@ body {
   height: 100vh;
 }
 
-.container-body {
-  display: flex; 
-  align-items: center;
-  justify-content: center;
-}
-
-.container-body-content {
-  width: 50%;
-  margin: auto;
-}
 
 #level-title {
   font-family: 'Press Start 2P', cursive;
