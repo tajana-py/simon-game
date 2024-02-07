@@ -4,12 +4,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-color: #7c6981;
-}
-
-@media (max-width: 768px) {
-    body {
-        height:100vh;
-    }
+  height:100vh;
 }
 
 #level-title {
