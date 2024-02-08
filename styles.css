@@ -18,6 +18,12 @@ body {
   text-shadow: 2px 0 #232931;
 }
 
+@media only screen and (max-width: 1024px) {
+  #level-title {
+    margin-top: 10%;
+  }
+}
+
 h2 {
   color: #F1ECC9;
   font-family: sans-serif;
