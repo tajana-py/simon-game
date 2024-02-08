@@ -13,16 +13,11 @@ body {
 #level-title {
   font-family: 'Press Start 2P', cursive;
   font-size: 3rem;
-  margin:  5% auto 3%;
+  margin:  10% auto 3%;
   color: #FEF2BF;
   text-shadow: 2px 0 #232931;
 }
 
-@media only screen and (max-width: 1024px) {
-  #level-title {
-    margin-top: 10%;
-  }
-}
 
 h2 {
   color: #F1ECC9;
